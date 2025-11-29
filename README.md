@@ -10,15 +10,19 @@
   ---
 
 ### Project Goals
-
+showing that I can format as shown here is a list 
+- example 1
+- example 2
+- so on
+- so on 
 
 ---
 
-### 🔗 External Link Example
+### Link Example
 Visit GitHub: https://github.com
 
 ---
 
-### 📌 Internal Navigation
+###  Navigation
 Jump to:  
 - [Top of Page](#IT-1600-HW-4)
