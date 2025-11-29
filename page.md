@@ -1,7 +1,7 @@
 # page Intro
 
-[⬅ Back to Home](README.md) |
-[Next ➜ Page 2](page1.md)
+[⬅ Back to ReadME](README.md) |
+[Next ➜ Page 1(page1.md)
 
 ## this is a header 
 this page is showing off images, navigaton and other features to formatting
