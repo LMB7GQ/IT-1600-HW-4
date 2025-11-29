@@ -9,20 +9,7 @@
 ```python
 def greet():
     print("Hello Markdown!")
-
-
----
-
-# ✅ **page2.md (Features & Deep Dive Page)**
-
-```markdown
-# Page 2: Deep Dive
-
-[⬅ Back to Page 1](page1.md) |
-[Next ➜ Page 3](page3.md)
-
----
-
+```
 ## 📘 Advanced Markdown Features
 
 ### ✔ Block Quote
